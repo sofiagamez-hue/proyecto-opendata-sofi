@@ -1,0 +1,845 @@
+anio,codigo_departamento,nombre_departamento,codigo_distrito,nombre_distrito,codigo_zona,nombre_zona,sector_o_tipo_gestion,anho_cod_geo,cantidad_matriculados_hombre,cantidad_matriculados_mujer
+2023,17,Alto Paraguay,4,Bahía Negra,1,Urbana,Oficial,,244,205
+2023,17,Alto Paraguay,4,Bahía Negra,2,Rural,Privado,,11,18
+2023,17,Alto Paraguay,4,Bahía Negra,2,Rural,Oficial,,88,105
+2023,17,Alto Paraguay,5,Carmelo Peralta,2,Rural,Oficial,,347,337
+2023,17,Alto Paraguay,5,Carmelo Peralta,1,Urbana,Oficial,,271,223
+2023,17,Alto Paraguay,1,Fuerte Olimpo,1,Urbana,Oficial,,401,374
+2023,17,Alto Paraguay,1,Fuerte Olimpo,2,Rural,Privado Subvencionado,,95,79
+2023,17,Alto Paraguay,1,Fuerte Olimpo,2,Rural,Privado,,4,9
+2023,17,Alto Paraguay,1,Fuerte Olimpo,2,Rural,Oficial,,235,235
+2023,17,Alto Paraguay,1,Fuerte Olimpo,1,Urbana,Privado,,6,10
+2023,17,Alto Paraguay,2,Puerto Casado,1,Urbana,Privado,,30,23
+2023,17,Alto Paraguay,2,Puerto Casado,1,Urbana,Oficial,,324,348
+2023,17,Alto Paraguay,2,Puerto Casado,2,Rural,Privado Subvencionado,,83,94
+2023,17,Alto Paraguay,2,Puerto Casado,2,Rural,Privado,,28,23
+2023,17,Alto Paraguay,2,Puerto Casado,2,Rural,Oficial,,244,252
+2023,17,Alto Paraguay,2,Puerto Casado,1,Urbana,Privado Subvencionado,,167,141
+2023,10,Alto Paraná,1,Ciudad del Este,2,Rural,Oficial,,12,11
+2023,10,Alto Paraná,1,Ciudad del Este,1,Urbana,Oficial,,33446,35997
+2023,10,Alto Paraná,1,Ciudad del Este,1,Urbana,Privado,,8669,9323
+2023,10,Alto Paraná,1,Ciudad del Este,1,Urbana,Privado Subvencionado,,1570,1563
+2023,10,Alto Paraná,3,Domingo Martínez de Irala,2,Rural,Oficial,,474,414
+2023,10,Alto Paraná,3,Domingo Martínez de Irala,1,Urbana,Oficial,,164,176
+2023,10,Alto Paraná,4,Dr. Juan León Mallorquín,1,Urbana,Privado Subvencionado,,475,535
+2023,10,Alto Paraná,4,Dr. Juan León Mallorquín,1,Urbana,Oficial,,1089,1063
+2023,10,Alto Paraná,4,Dr. Juan León Mallorquín,1,Urbana,Privado,,88,184
+2023,10,Alto Paraná,4,Dr. Juan León Mallorquín,2,Rural,Oficial,,595,561
+2023,10,Alto Paraná,22,Dr. Raúl Peña,1,Urbana,Oficial,,114,116
+2023,10,Alto Paraná,22,Dr. Raúl Peña,2,Rural,Oficial,,700,651
+2023,10,Alto Paraná,5,Hernandarias,2,Rural,Privado,,49,74
+2023,10,Alto Paraná,5,Hernandarias,1,Urbana,Privado Subvencionado,,348,383
+2023,10,Alto Paraná,5,Hernandarias,2,Rural,Oficial,,1520,1471
+2023,10,Alto Paraná,5,Hernandarias,2,Rural,Privado Subvencionado,,357,370
+2023,10,Alto Paraná,5,Hernandarias,1,Urbana,Oficial,,7419,7245
+2023,10,Alto Paraná,5,Hernandarias,1,Urbana,Privado,,1221,1250
+2023,10,Alto Paraná,19,Iruña,1,Urbana,Oficial,,153,157
+2023,10,Alto Paraná,19,Iruña,1,Urbana,Privado,,51,28
+2023,10,Alto Paraná,19,Iruña,2,Rural,Oficial,,227,194
+2023,10,Alto Paraná,6,Itakyry,2,Rural,Oficial,,2907,2814
+2023,10,Alto Paraná,6,Itakyry,1,Urbana,Oficial,,567,597
+2023,10,Alto Paraná,6,Itakyry,1,Urbana,Privado Subvencionado,,181,175
+2023,10,Alto Paraná,6,Itakyry,2,Rural,Privado,,16,13
+2023,10,Alto Paraná,7,Juan E. O'Leary,1,Urbana,Privado Subvencionado,,3,48
+2023,10,Alto Paraná,7,Juan E. O'Leary,1,Urbana,Oficial,,648,634
+2023,10,Alto Paraná,7,Juan E. O'Leary,1,Urbana,Privado,,39,92
+2023,10,Alto Paraná,7,Juan E. O'Leary,2,Rural,Oficial,,1646,1534
+2023,10,Alto Paraná,7,Juan E. O'Leary,2,Rural,Privado Subvencionado,,38,13
+2023,10,Alto Paraná,10,Los Cedrales,1,Urbana,Privado Subvencionado,,97,76
+2023,10,Alto Paraná,10,Los Cedrales,2,Rural,Oficial,,845,844
+2023,10,Alto Paraná,10,Los Cedrales,2,Rural,Privado,,3,15
+2023,10,Alto Paraná,17,Mbaracayú,1,Urbana,Oficial,,134,150
+2023,10,Alto Paraná,17,Mbaracayú,2,Rural,Oficial,,553,527
+2023,10,Alto Paraná,11,Minga Guazú,2,Rural,Privado Subvencionado,,830,783
+2023,10,Alto Paraná,11,Minga Guazú,2,Rural,Privado,,103,103
+2023,10,Alto Paraná,11,Minga Guazú,1,Urbana,Oficial,,4127,4081
+2023,10,Alto Paraná,11,Minga Guazú,1,Urbana,Privado,,515,516
+2023,10,Alto Paraná,11,Minga Guazú,1,Urbana,Privado Subvencionado,,940,1097
+2023,10,Alto Paraná,11,Minga Guazú,2,Rural,Oficial,,5084,4743
+2023,10,Alto Paraná,16,Minga Porá,1,Urbana,Oficial,,579,530
+2023,10,Alto Paraná,16,Minga Porá,2,Rural,Oficial,,1238,1223
+2023,10,Alto Paraná,16,Minga Porá,1,Urbana,Privado,,2,9
+2023,10,Alto Paraná,8,Ñacunday,2,Rural,Oficial,,730,756
+2023,10,Alto Paraná,8,Ñacunday,1,Urbana,Oficial,,189,165
+2023,10,Alto Paraná,14,Naranjal,2,Rural,Oficial,,251,234
+2023,10,Alto Paraná,14,Naranjal,1,Urbana,Oficial,,343,377
+2023,10,Alto Paraná,14,Naranjal,1,Urbana,Privado,,41,28
+2023,10,Alto Paraná,2,Presidente Franco,1,Urbana,Privado,,780,811
+2023,10,Alto Paraná,2,Presidente Franco,2,Rural,Oficial,,2271,2234
+2023,10,Alto Paraná,2,Presidente Franco,1,Urbana,Oficial,,7101,7011
+2023,10,Alto Paraná,2,Presidente Franco,2,Rural,Privado,,26,26
+2023,10,Alto Paraná,2,Presidente Franco,1,Urbana,Privado Subvencionado,,441,442
+2023,10,Alto Paraná,18,San Alberto,1,Urbana,Oficial,,835,901
+2023,10,Alto Paraná,18,San Alberto,1,Urbana,Privado,,60,79
+2023,10,Alto Paraná,18,San Alberto,1,Urbana,Privado Subvencionado,,376,345
+2023,10,Alto Paraná,18,San Alberto,2,Rural,Oficial,,209,270
+2023,10,Alto Paraná,12,San Cristóbal,1,Urbana,Oficial,,202,239
+2023,10,Alto Paraná,12,San Cristóbal,1,Urbana,Privado,,144,155
+2023,10,Alto Paraná,12,San Cristóbal,2,Rural,Oficial,,764,745
+2023,10,Alto Paraná,12,San Cristóbal,2,Rural,Privado,,77,87
+2023,10,Alto Paraná,20,Santa Fe del Paraná,2,Rural,Oficial,,189,179
+2023,10,Alto Paraná,20,Santa Fe del Paraná,1,Urbana,Oficial,,232,242
+2023,10,Alto Paraná,20,Santa Fe del Paraná,2,Rural,Privado,,63,57
+2023,10,Alto Paraná,13,Santa Rita,2,Rural,Oficial,,1292,1185
+2023,10,Alto Paraná,13,Santa Rita,1,Urbana,Privado,,333,529
+2023,10,Alto Paraná,13,Santa Rita,1,Urbana,Privado Subvencionado,,548,533
+2023,10,Alto Paraná,13,Santa Rita,1,Urbana,Oficial,,1491,1536
+2023,10,Alto Paraná,15,Santa Rosa del Monday,1,Urbana,Privado,,48,52
+2023,10,Alto Paraná,15,Santa Rosa del Monday,1,Urbana,Privado Subvencionado,,101,92
+2023,10,Alto Paraná,15,Santa Rosa del Monday,2,Rural,Oficial,,181,172
+2023,10,Alto Paraná,15,Santa Rosa del Monday,1,Urbana,Oficial,,333,315
+2023,10,Alto Paraná,21,Tavapy,2,Rural,Oficial,,406,380
+2023,10,Alto Paraná,21,Tavapy,1,Urbana,Oficial,,493,482
+2023,10,Alto Paraná,9,Yguazú,2,Rural,Privado Subvencionado,,198,200
+2023,10,Alto Paraná,9,Yguazú,1,Urbana,Oficial,,567,662
+2023,10,Alto Paraná,9,Yguazú,2,Rural,Oficial,,404,393
+2023,10,Alto Paraná,9,Yguazú,2,Rural,Privado,,53,63
+2023,13,Amambay,2,Bella Vista,1,Urbana,Privado Subvencionado,,180,187
+2023,13,Amambay,2,Bella Vista,1,Urbana,Oficial,,528,604
+2023,13,Amambay,2,Bella Vista,2,Rural,Oficial,,394,405
+2023,13,Amambay,3,Capitán Bado,2,Rural,Oficial,,752,730
+2023,13,Amambay,3,Capitán Bado,1,Urbana,Privado,,142,182
+2023,13,Amambay,3,Capitán Bado,1,Urbana,Oficial,,1064,1085
+2023,13,Amambay,6,Cerro Corá,2,Rural,Oficial,,1130,1203
+2023,13,Amambay,5,Karapai,2,Rural,Oficial,,256,253
+2023,13,Amambay,5,Karapai,1,Urbana,Oficial,,366,355
+2023,13,Amambay,1,Pedro Juan Caballero,1,Urbana,Privado Subvencionado,,1203,1210
+2023,13,Amambay,1,Pedro Juan Caballero,2,Rural,Privado,,15,10
+2023,13,Amambay,1,Pedro Juan Caballero,1,Urbana,Oficial,,9095,9309
+2023,13,Amambay,1,Pedro Juan Caballero,1,Urbana,Privado,,1756,1659
+2023,13,Amambay,1,Pedro Juan Caballero,2,Rural,Oficial,,1692,1794
+2023,13,Amambay,4,Zanja Pyta,2,Rural,Oficial,,232,236
+2023,13,Amambay,4,Zanja Pyta,1,Urbana,Oficial,,168,135
+2023,16,Boquerón,6,Boquerón,1,Urbana,Oficial,,5,18
+2023,16,Boquerón,6,Boquerón,2,Rural,Privado Subvencionado,,437,333
+2023,16,Boquerón,6,Boquerón,2,Rural,Oficial,,1234,1271
+2023,16,Boquerón,6,Boquerón,2,Rural,Privado,,250,265
+2023,16,Boquerón,4,Filadelfia,1,Urbana,Oficial,,1233,1329
+2023,16,Boquerón,4,Filadelfia,2,Rural,Privado,,81,85
+2023,16,Boquerón,4,Filadelfia,2,Rural,Privado Subvencionado,,16,14
+2023,16,Boquerón,4,Filadelfia,1,Urbana,Privado Subvencionado,,421,431
+2023,16,Boquerón,4,Filadelfia,2,Rural,Oficial,,163,154
+2023,16,Boquerón,4,Filadelfia,1,Urbana,Privado,,391,403
+2023,16,Boquerón,5,Loma Plata,1,Urbana,Oficial,,573,665
+2023,16,Boquerón,5,Loma Plata,2,Rural,Privado Subvencionado,,246,267
+2023,16,Boquerón,5,Loma Plata,2,Rural,Privado,,241,224
+2023,16,Boquerón,5,Loma Plata,2,Rural,Oficial,,1136,1101
+2023,16,Boquerón,5,Loma Plata,1,Urbana,Privado,,837,753
+2023,16,Boquerón,2,Mariscal Estigarribia,1,Urbana,Oficial,,45,55
+2023,16,Boquerón,2,Mariscal Estigarribia,2,Rural,Privado Subvencionado,,527,520
+2023,16,Boquerón,2,Mariscal Estigarribia,1,Urbana,Privado,,68,56
+2023,16,Boquerón,2,Mariscal Estigarribia,2,Rural,Privado,,158,127
+2023,16,Boquerón,2,Mariscal Estigarribia,2,Rural,Oficial,,719,675
+2023,16,Boquerón,2,Mariscal Estigarribia,1,Urbana,Privado Subvencionado,,191,198
+2023,5,Caaguazú,18,3 de Febrero,2,Rural,Oficial,,572,532
+2023,5,Caaguazú,18,3 de Febrero,1,Urbana,Oficial,,278,297
+2023,5,Caaguazú,2,Caaguazú,2,Rural,Oficial,,3932,3656
+2023,5,Caaguazú,2,Caaguazú,1,Urbana,Oficial,,8379,7997
+2023,5,Caaguazú,2,Caaguazú,1,Urbana,Privado,,391,834
+2023,5,Caaguazú,2,Caaguazú,1,Urbana,Privado Subvencionado,,1179,1325
+2023,5,Caaguazú,3,Carayaó,1,Urbana,Oficial,,442,426
+2023,5,Caaguazú,3,Carayaó,2,Rural,Oficial,,1175,1039
+2023,5,Caaguazú,1,Coronel Oviedo,2,Rural,Privado Subvencionado,,114,110
+2023,5,Caaguazú,1,Coronel Oviedo,2,Rural,Oficial,,2855,2863
+2023,5,Caaguazú,1,Coronel Oviedo,2,Rural,Privado,,230,95
+2023,5,Caaguazú,1,Coronel Oviedo,1,Urbana,Privado,,258,637
+2023,5,Caaguazú,1,Coronel Oviedo,1,Urbana,Oficial,,7520,7367
+2023,5,Caaguazú,1,Coronel Oviedo,1,Urbana,Privado Subvencionado,,2666,2751
+2023,5,Caaguazú,4,Dr. Cecilio Báez,1,Urbana,Oficial,,318,312
+2023,5,Caaguazú,4,Dr. Cecilio Báez,1,Urbana,Privado Subvencionado,,43,67
+2023,5,Caaguazú,4,Dr. Cecilio Báez,2,Rural,Oficial,,399,410
+2023,5,Caaguazú,12,Dr. Juan Eulogio Estigarribia,1,Urbana,Privado Subvencionado,,731,674
+2023,5,Caaguazú,12,Dr. Juan Eulogio Estigarribia,2,Rural,Privado,,190,233
+2023,5,Caaguazú,12,Dr. Juan Eulogio Estigarribia,2,Rural,Oficial,,1895,1788
+2023,5,Caaguazú,12,Dr. Juan Eulogio Estigarribia,1,Urbana,Privado,,180,211
+2023,5,Caaguazú,12,Dr. Juan Eulogio Estigarribia,1,Urbana,Oficial,,2011,1949
+2023,5,Caaguazú,6,Dr. Juan Manuel Frutos,2,Rural,Oficial,,1640,1570
+2023,5,Caaguazú,6,Dr. Juan Manuel Frutos,1,Urbana,Oficial,,1131,949
+2023,5,Caaguazú,6,Dr. Juan Manuel Frutos,1,Urbana,Privado,,6,41
+2023,5,Caaguazú,15,José Domingo Ocampos,1,Urbana,Oficial,,279,339
+2023,5,Caaguazú,15,José Domingo Ocampos,1,Urbana,Privado,,14,30
+2023,5,Caaguazú,15,José Domingo Ocampos,2,Rural,Oficial,,679,667
+2023,5,Caaguazú,17,La Pastora,2,Rural,Oficial,,520,489
+2023,5,Caaguazú,16,Mariscal Francisco Solano López,2,Rural,Oficial,,443,460
+2023,5,Caaguazú,16,Mariscal Francisco Solano López,1,Urbana,Oficial,,199,178
+2023,5,Caaguazú,16,Mariscal Francisco Solano López,1,Urbana,Privado,,54,88
+2023,5,Caaguazú,8,Nueva Londres,1,Urbana,Oficial,,157,151
+2023,5,Caaguazú,8,Nueva Londres,2,Rural,Oficial,,159,166
+2023,5,Caaguazú,22,Nueva Toledo,2,Rural,Oficial,,500,450
+2023,5,Caaguazú,22,Nueva Toledo,1,Urbana,Privado,,57,75
+2023,5,Caaguazú,22,Nueva Toledo,1,Urbana,Oficial,,159,191
+2023,5,Caaguazú,14,Raúl Arsenio Oviedo,2,Rural,Oficial,,1270,1264
+2023,5,Caaguazú,14,Raúl Arsenio Oviedo,2,Rural,Privado,,75,63
+2023,5,Caaguazú,14,Raúl Arsenio Oviedo,2,Rural,Privado Subvencionado,,198,180
+2023,5,Caaguazú,14,Raúl Arsenio Oviedo,1,Urbana,Oficial,,433,412
+2023,5,Caaguazú,7,Repatriación,2,Rural,Oficial,,3014,2857
+2023,5,Caaguazú,7,Repatriación,1,Urbana,Oficial,,581,571
+2023,5,Caaguazú,7,Repatriación,1,Urbana,Privado Subvencionado,,6,26
+2023,5,Caaguazú,13,R.I. 3 Corrales,1,Urbana,Oficial,,176,173
+2023,5,Caaguazú,13,R.I. 3 Corrales,2,Rural,Oficial,,587,568
+2023,5,Caaguazú,9,San Joaquín,1,Urbana,Privado Subvencionado,,202,163
+2023,5,Caaguazú,9,San Joaquín,1,Urbana,Oficial,,285,257
+2023,5,Caaguazú,9,San Joaquín,2,Rural,Oficial,,1107,1099
+2023,5,Caaguazú,10,San José de los Arroyos,2,Rural,Oficial,,829,727
+2023,5,Caaguazú,10,San José de los Arroyos,1,Urbana,Oficial,,618,543
+2023,5,Caaguazú,10,San José de los Arroyos,1,Urbana,Privado Subvencionado,,327,353
+2023,5,Caaguazú,5,Santa Rosa del Mbutuy,2,Rural,Oficial,,1110,1034
+2023,5,Caaguazú,5,Santa Rosa del Mbutuy,1,Urbana,Oficial,,266,251
+2023,5,Caaguazú,19,Simón Bolívar,1,Urbana,Oficial,,251,252
+2023,5,Caaguazú,19,Simón Bolívar,2,Rural,Oficial,,297,274
+2023,5,Caaguazú,21,Tembiaporá,1,Urbana,Oficial,,351,351
+2023,5,Caaguazú,21,Tembiaporá,2,Rural,Oficial,,1469,1500
+2023,5,Caaguazú,21,Tembiaporá,1,Urbana,Privado,,50,67
+2023,5,Caaguazú,20,Vaquería,2,Rural,Oficial,,815,807
+2023,5,Caaguazú,20,Vaquería,1,Urbana,Oficial,,745,743
+2023,5,Caaguazú,11,Yhú,2,Rural,Oficial,,3147,3018
+2023,5,Caaguazú,11,Yhú,1,Urbana,Oficial,,282,327
+2023,6,Caazapá,11,3 de Mayo,1,Urbana,Oficial,,192,177
+2023,6,Caazapá,11,3 de Mayo,2,Rural,Oficial,,1767,1563
+2023,6,Caazapá,11,3 de Mayo,2,Rural,Privado,,21,25
+2023,6,Caazapá,2,Abaí,2,Rural,Privado Subvencionado,,115,128
+2023,6,Caazapá,2,Abaí,2,Rural,Privado,,30,28
+2023,6,Caazapá,2,Abaí,2,Rural,Oficial,,3024,2847
+2023,6,Caazapá,2,Abaí,1,Urbana,Privado,,2,3
+2023,6,Caazapá,2,Abaí,1,Urbana,Oficial,,354,395
+2023,6,Caazapá,3,Buena Vista,2,Rural,Oficial,,274,235
+2023,6,Caazapá,3,Buena Vista,1,Urbana,Oficial,,367,337
+2023,6,Caazapá,1,Caazapá,2,Rural,Oficial,,1667,1552
+2023,6,Caazapá,1,Caazapá,1,Urbana,Privado Subvencionado,,315,358
+2023,6,Caazapá,1,Caazapá,1,Urbana,Privado,,199,205
+2023,6,Caazapá,1,Caazapá,1,Urbana,Oficial,,718,732
+2023,6,Caazapá,4,Dr. Moisés S. Bertoni,2,Rural,Oficial,,300,294
+2023,6,Caazapá,4,Dr. Moisés S. Bertoni,1,Urbana,Oficial,,171,174
+2023,6,Caazapá,9,Fulgencio Yegros,1,Urbana,Oficial,,209,237
+2023,6,Caazapá,9,Fulgencio Yegros,2,Rural,Oficial,,414,369
+2023,6,Caazapá,5,General Higinio Morínigo,1,Urbana,Oficial,,121,120
+2023,6,Caazapá,5,General Higinio Morínigo,1,Urbana,Privado Subvencionado,,58,66
+2023,6,Caazapá,5,General Higinio Morínigo,2,Rural,Oficial,,483,505
+2023,6,Caazapá,6,Maciel,1,Urbana,Oficial,,113,103
+2023,6,Caazapá,6,Maciel,2,Rural,Oficial,,310,243
+2023,6,Caazapá,7,San Juan Nepomuceno,1,Urbana,Privado,,59,107
+2023,6,Caazapá,7,San Juan Nepomuceno,2,Rural,Privado,,34,46
+2023,6,Caazapá,7,San Juan Nepomuceno,1,Urbana,Privado Subvencionado,,47,48
+2023,6,Caazapá,7,San Juan Nepomuceno,2,Rural,Oficial,,2677,2522
+2023,6,Caazapá,7,San Juan Nepomuceno,1,Urbana,Oficial,,1562,1683
+2023,6,Caazapá,8,Tavaí,1,Urbana,Oficial,,72,84
+2023,6,Caazapá,8,Tavaí,2,Rural,Oficial,,2212,2211
+2023,6,Caazapá,10,Yuty,1,Urbana,Privado,,13,68
+2023,6,Caazapá,10,Yuty,2,Rural,Oficial,,1086,975
+2023,6,Caazapá,10,Yuty,1,Urbana,Privado Subvencionado,,136,150
+2023,6,Caazapá,10,Yuty,1,Urbana,Oficial,,654,694
+2023,14,Canindeyú,2,Corpus Christi,1,Urbana,Oficial,,388,389
+2023,14,Canindeyú,2,Corpus Christi,2,Rural,Oficial,,461,462
+2023,14,Canindeyú,2,Corpus Christi,2,Rural,Privado,,6,10
+2023,14,Canindeyú,3,Curuguaty,1,Urbana,Privado Subvencionado,,61,20
+2023,14,Canindeyú,3,Curuguaty,1,Urbana,Oficial,,2199,2262
+2023,14,Canindeyú,3,Curuguaty,1,Urbana,Privado,,278,359
+2023,14,Canindeyú,3,Curuguaty,2,Rural,Oficial,,2778,2636
+2023,14,Canindeyú,7,Francisco Caballero Alvarez,2,Rural,Oficial,,389,354
+2023,14,Canindeyú,7,Francisco Caballero Alvarez,1,Urbana,Oficial,,599,668
+2023,14,Canindeyú,5,Itanará,2,Rural,Oficial,,132,131
+2023,14,Canindeyú,5,Itanará,1,Urbana,Oficial,,134,151
+2023,14,Canindeyú,8,Katueté,1,Urbana,Privado,,110,113
+2023,14,Canindeyú,8,Katueté,2,Rural,Oficial,,271,220
+2023,14,Canindeyú,8,Katueté,2,Rural,Privado,,50,28
+2023,14,Canindeyú,8,Katueté,1,Urbana,Privado Subvencionado,,17,21
+2023,14,Canindeyú,8,Katueté,1,Urbana,Oficial,,905,969
+2023,14,Canindeyú,9,La Paloma del Espíritu Santo,2,Rural,Oficial,,131,124
+2023,14,Canindeyú,9,La Paloma del Espíritu Santo,1,Urbana,Oficial,,568,579
+2023,14,Canindeyú,9,La Paloma del Espíritu Santo,1,Urbana,Privado,,123,144
+2023,14,Canindeyú,9,La Paloma del Espíritu Santo,1,Urbana,Privado Subvencionado,,108,105
+2023,14,Canindeyú,16,Laurel,2,Rural,Oficial,,231,199
+2023,14,Canindeyú,16,Laurel,1,Urbana,Oficial,,17,11
+2023,14,Canindeyú,14,Maracana,2,Rural,Oficial,,1981,1902
+2023,14,Canindeyú,14,Maracana,2,Rural,Privado,,40,32
+2023,14,Canindeyú,10,Nueva Esperanza,2,Rural,Privado,,4,3
+2023,14,Canindeyú,10,Nueva Esperanza,1,Urbana,Privado,,254,267
+2023,14,Canindeyú,10,Nueva Esperanza,1,Urbana,Oficial,,614,686
+2023,14,Canindeyú,10,Nueva Esperanza,2,Rural,Oficial,,631,562
+2023,14,Canindeyú,15,Puerto Adela,2,Rural,Oficial,,156,153
+2023,14,Canindeyú,1,Salto del Guairá,1,Urbana,Oficial,,1893,1903
+2023,14,Canindeyú,1,Salto del Guairá,1,Urbana,Privado Subvencionado,,229,266
+2023,14,Canindeyú,1,Salto del Guairá,1,Urbana,Privado,,379,459
+2023,14,Canindeyú,1,Salto del Guairá,2,Rural,Oficial,,1234,1319
+2023,14,Canindeyú,4,Villa Ygatimí,2,Rural,Oficial,,1322,1262
+2023,14,Canindeyú,4,Villa Ygatimí,1,Urbana,Oficial,,526,503
+2023,14,Canindeyú,4,Villa Ygatimí,2,Rural,Privado,,1,93
+2023,14,Canindeyú,11,Yasy Cañy,1,Urbana,Oficial,,365,400
+2023,14,Canindeyú,11,Yasy Cañy,2,Rural,Oficial,,2736,2624
+2023,14,Canindeyú,11,Yasy Cañy,1,Urbana,Privado,,24,67
+2023,14,Canindeyú,13,Yby Pyta,2,Rural,Oficial,,1683,1631
+2023,14,Canindeyú,13,Yby Pyta,1,Urbana,Oficial,,150,166
+2023,14,Canindeyú,12,Ybyrarovaná,1,Urbana,Oficial,,271,290
+2023,14,Canindeyú,12,Ybyrarovaná,2,Rural,Oficial,,1321,1313
+2023,14,Canindeyú,12,Ybyrarovaná,2,Rural,Privado,,101,105
+2023,14,Canindeyú,6,Ypejhú,1,Urbana,Oficial,,276,305
+2023,14,Canindeyú,6,Ypejhú,2,Rural,Oficial,,722,694
+2023,0,Capital,0,Asunción,1,Urbana,Oficial,,29156,28731
+2023,0,Capital,0,Asunción,1,Urbana,Privado Subvencionado,,16181,16563
+2023,0,Capital,0,Asunción,1,Urbana,Privado,,20090,20501
+2023,11,Central,1,Areguá,2,Rural,Oficial,,4644,4366
+2023,11,Central,1,Areguá,1,Urbana,Oficial,,2063,1969
+2023,11,Central,1,Areguá,1,Urbana,Privado,,175,201
+2023,11,Central,1,Areguá,2,Rural,Privado,,51,47
+2023,11,Central,1,Areguá,2,Rural,Privado Subvencionado,,1242,1274
+2023,11,Central,1,Areguá,1,Urbana,Privado Subvencionado,,876,915
+2023,11,Central,2,Capiatá,1,Urbana,Privado Subvencionado,,2431,2389
+2023,11,Central,2,Capiatá,1,Urbana,Oficial,,22833,21940
+2023,11,Central,2,Capiatá,1,Urbana,Privado,,3055,3151
+2023,11,Central,2,Capiatá,2,Rural,Oficial,,131,107
+2023,11,Central,3,Fernando de la Mora,1,Urbana,Oficial,,6531,6299
+2023,11,Central,3,Fernando de la Mora,1,Urbana,Privado Subvencionado,,1579,1719
+2023,11,Central,3,Fernando de la Mora,1,Urbana,Privado,,4030,3693
+2023,11,Central,4,Guarambaré,1,Urbana,Oficial,,2085,1944
+2023,11,Central,4,Guarambaré,1,Urbana,Privado,,297,288
+2023,11,Central,4,Guarambaré,2,Rural,Oficial,,754,728
+2023,11,Central,4,Guarambaré,1,Urbana,Privado Subvencionado,,563,642
+2023,11,Central,5,Itá,2,Rural,Privado Subvencionado,,52,56
+2023,11,Central,5,Itá,1,Urbana,Oficial,,3179,3061
+2023,11,Central,5,Itá,1,Urbana,Privado,,417,407
+2023,11,Central,5,Itá,1,Urbana,Privado Subvencionado,,1101,1124
+2023,11,Central,5,Itá,2,Rural,Oficial,,4345,3976
+2023,11,Central,6,Itauguá,2,Rural,Privado,,366,328
+2023,11,Central,6,Itauguá,1,Urbana,Oficial,,7209,6787
+2023,11,Central,6,Itauguá,1,Urbana,Privado Subvencionado,,148,142
+2023,11,Central,6,Itauguá,1,Urbana,Privado,,599,719
+2023,11,Central,6,Itauguá,2,Rural,Oficial,,2463,2328
+2023,11,Central,19,Julián Augusto Saldívar,1,Urbana,Oficial,,1418,1405
+2023,11,Central,19,Julián Augusto Saldívar,2,Rural,Privado Subvencionado,,591,565
+2023,11,Central,19,Julián Augusto Saldívar,1,Urbana,Privado Subvencionado,,492,507
+2023,11,Central,19,Julián Augusto Saldívar,2,Rural,Oficial,,4677,4644
+2023,11,Central,19,Julián Augusto Saldívar,2,Rural,Privado,,718,727
+2023,11,Central,19,Julián Augusto Saldívar,1,Urbana,Privado,,0,8
+2023,11,Central,7,Lambaré,1,Urbana,Privado Subvencionado,,1764,1734
+2023,11,Central,7,Lambaré,1,Urbana,Privado,,2669,2812
+2023,11,Central,7,Lambaré,1,Urbana,Oficial,,6364,6229
+2023,11,Central,8,Limpio,1,Urbana,Privado Subvencionado,,2315,2283
+2023,11,Central,8,Limpio,1,Urbana,Privado,,1398,1404
+2023,11,Central,8,Limpio,1,Urbana,Oficial,,14394,13791
+2023,11,Central,9,Luque,1,Urbana,Privado,,3298,3213
+2023,11,Central,9,Luque,1,Urbana,Oficial,,21162,20325
+2023,11,Central,9,Luque,2,Rural,Privado,,69,45
+2023,11,Central,9,Luque,2,Rural,Oficial,,1354,1216
+2023,11,Central,9,Luque,1,Urbana,Privado Subvencionado,,4801,4749
+2023,11,Central,10,Mariano Roque Alonso,1,Urbana,Privado,,965,991
+2023,11,Central,10,Mariano Roque Alonso,1,Urbana,Oficial,,6280,5830
+2023,11,Central,10,Mariano Roque Alonso,1,Urbana,Privado Subvencionado,,1165,1177
+2023,11,Central,12,Ñemby,1,Urbana,Oficial,,11170,11151
+2023,11,Central,12,Ñemby,1,Urbana,Privado Subvencionado,,1375,1294
+2023,11,Central,12,Ñemby,1,Urbana,Privado,,2294,2380
+2023,11,Central,11,Nueva Italia,1,Urbana,Privado Subvencionado,,136,154
+2023,11,Central,11,Nueva Italia,2,Rural,Oficial,,366,329
+2023,11,Central,11,Nueva Italia,1,Urbana,Oficial,,614,591
+2023,11,Central,11,Nueva Italia,2,Rural,Privado Subvencionado,,202,205
+2023,11,Central,13,San Antonio,1,Urbana,Oficial,,4974,4710
+2023,11,Central,13,San Antonio,1,Urbana,Privado Subvencionado,,210,190
+2023,11,Central,13,San Antonio,1,Urbana,Privado,,673,653
+2023,11,Central,14,San Lorenzo,1,Urbana,Privado,,5090,5056
+2023,11,Central,14,San Lorenzo,1,Urbana,Privado Subvencionado,,2709,2475
+2023,11,Central,14,San Lorenzo,1,Urbana,Oficial,,17331,17295
+2023,11,Central,15,Villa Elisa,1,Urbana,Oficial,,5099,4953
+2023,11,Central,15,Villa Elisa,1,Urbana,Privado,,1014,923
+2023,11,Central,15,Villa Elisa,1,Urbana,Privado Subvencionado,,1069,1070
+2023,11,Central,16,Villeta,1,Urbana,Privado Subvencionado,,291,273
+2023,11,Central,16,Villeta,1,Urbana,Oficial,,1789,1758
+2023,11,Central,16,Villeta,1,Urbana,Privado,,146,116
+2023,11,Central,16,Villeta,2,Rural,Oficial,,2256,2094
+2023,11,Central,17,Ypacaraí,2,Rural,Privado,,0,17
+2023,11,Central,17,Ypacaraí,1,Urbana,Oficial,,1232,1237
+2023,11,Central,17,Ypacaraí,1,Urbana,Privado,,309,321
+2023,11,Central,17,Ypacaraí,1,Urbana,Privado Subvencionado,,57,57
+2023,11,Central,17,Ypacaraí,2,Rural,Oficial,,786,754
+2023,11,Central,17,Ypacaraí,2,Rural,Privado Subvencionado,,319,343
+2023,11,Central,18,Ypané,1,Urbana,Oficial,,2549,2545
+2023,11,Central,18,Ypané,2,Rural,Privado,,236,239
+2023,11,Central,18,Ypané,2,Rural,Privado Subvencionado,,117,107
+2023,11,Central,18,Ypané,2,Rural,Oficial,,4421,4017
+2023,11,Central,18,Ypané,1,Urbana,Privado Subvencionado,,625,548
+2023,11,Central,18,Ypané,1,Urbana,Privado,,197,181
+2023,1,Concepción,12,Arroyito,2,Rural,Privado Subvencionado,,221,185
+2023,1,Concepción,12,Arroyito,2,Rural,Oficial,,1111,1095
+2023,1,Concepción,8,Azotey,2,Rural,Oficial,,597,622
+2023,1,Concepción,8,Azotey,1,Urbana,Oficial,,353,409
+2023,1,Concepción,8,Azotey,1,Urbana,Privado Subvencionado,,80,93
+2023,1,Concepción,2,Belén,1,Urbana,Oficial,,402,355
+2023,1,Concepción,2,Belén,2,Rural,Oficial,,1368,1239
+2023,1,Concepción,1,Concepción,2,Rural,Privado Subvencionado,,32,45
+2023,1,Concepción,1,Concepción,1,Urbana,Oficial,,4764,4796
+2023,1,Concepción,1,Concepción,2,Rural,Oficial,,1395,1132
+2023,1,Concepción,1,Concepción,1,Urbana,Privado Subvencionado,,4060,4086
+2023,1,Concepción,1,Concepción,1,Urbana,Privado,,419,487
+2023,1,Concepción,3,Horqueta,2,Rural,Privado Subvencionado,,73,73
+2023,1,Concepción,3,Horqueta,2,Rural,Oficial,,3328,3194
+2023,1,Concepción,3,Horqueta,1,Urbana,Privado Subvencionado,,739,765
+2023,1,Concepción,3,Horqueta,1,Urbana,Oficial,,1327,1381
+2023,1,Concepción,3,Horqueta,1,Urbana,Privado,,36,73
+2023,1,Concepción,14,Itacuá,2,Rural,Oficial,,325,363
+2023,1,Concepción,4,Loreto,1,Urbana,Oficial,,896,833
+2023,1,Concepción,4,Loreto,1,Urbana,Privado,,28,39
+2023,1,Concepción,4,Loreto,2,Rural,Oficial,,1141,1091
+2023,1,Concepción,11,Paso Barreto,1,Urbana,Oficial,,239,277
+2023,1,Concepción,11,Paso Barreto,2,Rural,Oficial,,292,310
+2023,1,Concepción,13,Paso Horqueta,2,Rural,Oficial,,1107,1080
+2023,1,Concepción,10,San Alfredo,2,Rural,Oficial,,58,69
+2023,1,Concepción,10,San Alfredo,1,Urbana,Oficial,,259,255
+2023,1,Concepción,5,San Carlos del Apa,1,Urbana,Oficial,,93,92
+2023,1,Concepción,6,San Lázaro,2,Rural,Privado Subvencionado,,127,133
+2023,1,Concepción,6,San Lázaro,1,Urbana,Privado,,25,36
+2023,1,Concepción,6,San Lázaro,2,Rural,Oficial,,1369,1447
+2023,1,Concepción,6,San Lázaro,2,Rural,Privado,,74,105
+2023,1,Concepción,6,San Lázaro,1,Urbana,Oficial,,107,93
+2023,1,Concepción,9,Sargento José Félix López,2,Rural,Oficial,,325,283
+2023,1,Concepción,9,Sargento José Félix López,1,Urbana,Oficial,,574,654
+2023,1,Concepción,9,Sargento José Félix López,2,Rural,Privado Subvencionado,,9,6
+2023,1,Concepción,7,Yby Yaú,2,Rural,Privado,,8,8
+2023,1,Concepción,7,Yby Yaú,2,Rural,Oficial,,1819,1843
+2023,1,Concepción,7,Yby Yaú,1,Urbana,Privado Subvencionado,,4,92
+2023,1,Concepción,7,Yby Yaú,1,Urbana,Oficial,,1248,1231
+2023,3,Cordillera,15,1º de Marzo,1,Urbana,Oficial,,175,133
+2023,3,Cordillera,15,1º de Marzo,2,Rural,Oficial,,375,322
+2023,3,Cordillera,2,Altos,1,Urbana,Oficial,,781,778
+2023,3,Cordillera,2,Altos,2,Rural,Oficial,,533,531
+2023,3,Cordillera,2,Altos,1,Urbana,Privado Subvencionado,,220,228
+2023,3,Cordillera,3,Arroyos y Esteros,1,Urbana,Privado Subvencionado,,150,137
+2023,3,Cordillera,3,Arroyos y Esteros,2,Rural,Oficial,,1787,1671
+2023,3,Cordillera,3,Arroyos y Esteros,2,Rural,Privado,,27,29
+2023,3,Cordillera,3,Arroyos y Esteros,1,Urbana,Oficial,,592,630
+2023,3,Cordillera,4,Atyrá,2,Rural,Oficial,,1050,1064
+2023,3,Cordillera,4,Atyrá,1,Urbana,Oficial,,923,845
+2023,3,Cordillera,1,Caacupé,1,Urbana,Oficial,,3083,2934
+2023,3,Cordillera,1,Caacupé,2,Rural,Oficial,,2497,2343
+2023,3,Cordillera,1,Caacupé,1,Urbana,Privado,,107,194
+2023,3,Cordillera,1,Caacupé,1,Urbana,Privado Subvencionado,,683,723
+2023,3,Cordillera,5,Caraguatay,1,Urbana,Privado Subvencionado,,238,329
+2023,3,Cordillera,5,Caraguatay,1,Urbana,Oficial,,268,256
+2023,3,Cordillera,5,Caraguatay,2,Rural,Oficial,,639,583
+2023,3,Cordillera,5,Caraguatay,2,Rural,Privado Subvencionado,,22,9
+2023,3,Cordillera,6,Emboscada,1,Urbana,Oficial,,1120,1158
+2023,3,Cordillera,6,Emboscada,2,Rural,Privado Subvencionado,,351,394
+2023,3,Cordillera,6,Emboscada,2,Rural,Oficial,,1289,939
+2023,3,Cordillera,6,Emboscada,1,Urbana,Privado,,7,8
+2023,3,Cordillera,7,Eusebio Ayala,1,Urbana,Oficial,,1125,1038
+2023,3,Cordillera,7,Eusebio Ayala,1,Urbana,Privado,,26,33
+2023,3,Cordillera,7,Eusebio Ayala,1,Urbana,Privado Subvencionado,,396,386
+2023,3,Cordillera,7,Eusebio Ayala,2,Rural,Oficial,,793,722
+2023,3,Cordillera,8,Isla Pucú,2,Rural,Privado Subvencionado,,38,33
+2023,3,Cordillera,8,Isla Pucú,1,Urbana,Oficial,,251,252
+2023,3,Cordillera,8,Isla Pucú,1,Urbana,Privado Subvencionado,,73,60
+2023,3,Cordillera,8,Isla Pucú,2,Rural,Oficial,,323,330
+2023,3,Cordillera,9,Itacurubí de la Cordillera,2,Rural,Oficial,,335,292
+2023,3,Cordillera,9,Itacurubí de la Cordillera,1,Urbana,Privado Subvencionado,,91,112
+2023,3,Cordillera,9,Itacurubí de la Cordillera,2,Rural,Privado Subvencionado,,18,9
+2023,3,Cordillera,9,Itacurubí de la Cordillera,1,Urbana,Oficial,,573,554
+2023,3,Cordillera,9,Itacurubí de la Cordillera,1,Urbana,Privado,,15,36
+2023,3,Cordillera,10,Juan de Mena,1,Urbana,Oficial,,156,176
+2023,3,Cordillera,10,Juan de Mena,2,Rural,Privado Subvencionado,,32,34
+2023,3,Cordillera,10,Juan de Mena,2,Rural,Oficial,,687,681
+2023,3,Cordillera,11,Loma Grande,2,Rural,Oficial,,92,79
+2023,3,Cordillera,11,Loma Grande,1,Urbana,Oficial,,323,334
+2023,3,Cordillera,12,Mbocayaty del Yhaguy,2,Rural,Oficial,,258,254
+2023,3,Cordillera,12,Mbocayaty del Yhaguy,1,Urbana,Oficial,,64,72
+2023,3,Cordillera,13,Nueva Colombia,2,Rural,Oficial,,246,234
+2023,3,Cordillera,13,Nueva Colombia,1,Urbana,Oficial,,247,225
+2023,3,Cordillera,14,Piribebuy,2,Rural,Oficial,,1339,1355
+2023,3,Cordillera,14,Piribebuy,1,Urbana,Privado Subvencionado,,170,173
+2023,3,Cordillera,14,Piribebuy,1,Urbana,Privado,,67,89
+2023,3,Cordillera,14,Piribebuy,1,Urbana,Oficial,,1646,1450
+2023,3,Cordillera,16,San Bernardino,1,Urbana,Privado,,22,24
+2023,3,Cordillera,16,San Bernardino,2,Rural,Oficial,,448,379
+2023,3,Cordillera,16,San Bernardino,1,Urbana,Privado Subvencionado,,95,120
+2023,3,Cordillera,16,San Bernardino,1,Urbana,Oficial,,755,798
+2023,3,Cordillera,20,San José Obrero,2,Rural,Oficial,,119,107
+2023,3,Cordillera,20,San José Obrero,1,Urbana,Oficial,,78,88
+2023,3,Cordillera,17,Santa Elena,2,Rural,Oficial,,224,181
+2023,3,Cordillera,17,Santa Elena,1,Urbana,Oficial,,209,213
+2023,3,Cordillera,17,Santa Elena,1,Urbana,Privado Subvencionado,,52,50
+2023,3,Cordillera,18,Tobatí,2,Rural,Oficial,,1303,1170
+2023,3,Cordillera,18,Tobatí,1,Urbana,Privado Subvencionado,,46,46
+2023,3,Cordillera,18,Tobatí,1,Urbana,Privado,,54,84
+2023,3,Cordillera,18,Tobatí,1,Urbana,Oficial,,2199,2090
+2023,3,Cordillera,19,Valenzuela,1,Urbana,Privado Subvencionado,,71,69
+2023,3,Cordillera,19,Valenzuela,1,Urbana,Oficial,,227,250
+2023,3,Cordillera,19,Valenzuela,2,Rural,Oficial,,372,307
+2023,4,Guairá,2,Borja,2,Rural,Oficial,,941,884
+2023,4,Guairá,2,Borja,1,Urbana,Oficial,,78,83
+2023,4,Guairá,4,Coronel Martínez,2,Rural,Oficial,,187,136
+2023,4,Guairá,4,Coronel Martínez,1,Urbana,Oficial,,354,444
+2023,4,Guairá,16,Dr. Bottrell,2,Rural,Oficial,,35,32
+2023,4,Guairá,16,Dr. Bottrell,1,Urbana,Oficial,,119,105
+2023,4,Guairá,5,Félix Pérez Cardozo,1,Urbana,Oficial,,232,189
+2023,4,Guairá,5,Félix Pérez Cardozo,2,Rural,Oficial,,260,266
+2023,4,Guairá,6,General Eugenio A. Garay,1,Urbana,Oficial,,145,128
+2023,4,Guairá,6,General Eugenio A. Garay,2,Rural,Oficial,,595,567
+2023,4,Guairá,7,Independencia,2,Rural,Privado,,110,105
+2023,4,Guairá,7,Independencia,1,Urbana,Oficial,,510,518
+2023,4,Guairá,7,Independencia,1,Urbana,Privado Subvencionado,,89,57
+2023,4,Guairá,7,Independencia,2,Rural,Oficial,,1818,1756
+2023,4,Guairá,7,Independencia,2,Rural,Privado Subvencionado,,253,243
+2023,4,Guairá,8,Itapé,1,Urbana,Privado Subvencionado,,151,192
+2023,4,Guairá,8,Itapé,1,Urbana,Oficial,,151,119
+2023,4,Guairá,8,Itapé,2,Rural,Oficial,,383,348
+2023,4,Guairá,9,Iturbe,1,Urbana,Privado,,17,24
+2023,4,Guairá,9,Iturbe,2,Rural,Oficial,,222,216
+2023,4,Guairá,9,Iturbe,1,Urbana,Privado Subvencionado,,2,6
+2023,4,Guairá,9,Iturbe,1,Urbana,Oficial,,567,607
+2023,4,Guairá,10,José Fassardi,1,Urbana,Oficial,,124,126
+2023,4,Guairá,10,José Fassardi,2,Rural,Oficial,,505,493
+2023,4,Guairá,3,Mauricio José Troche,1,Urbana,Privado Subvencionado,,234,234
+2023,4,Guairá,3,Mauricio José Troche,1,Urbana,Oficial,,356,324
+2023,4,Guairá,3,Mauricio José Troche,2,Rural,Oficial,,550,511
+2023,4,Guairá,11,Mbocayaty,1,Urbana,Privado Subvencionado,,153,147
+2023,4,Guairá,11,Mbocayaty,2,Rural,Oficial,,360,333
+2023,4,Guairá,11,Mbocayaty,2,Rural,Privado Subvencionado,,46,37
+2023,4,Guairá,11,Mbocayaty,1,Urbana,Oficial,,371,328
+2023,4,Guairá,11,Mbocayaty,1,Urbana,Privado,,8,65
+2023,4,Guairá,12,Natalicio Talavera,1,Urbana,Oficial,,365,327
+2023,4,Guairá,12,Natalicio Talavera,2,Rural,Oficial,,151,136
+2023,4,Guairá,13,Ñumí,1,Urbana,Privado,,21,65
+2023,4,Guairá,13,Ñumí,1,Urbana,Oficial,,220,200
+2023,4,Guairá,13,Ñumí,2,Rural,Oficial,,134,113
+2023,4,Guairá,17,Paso Yobai,2,Rural,Privado,,20,24
+2023,4,Guairá,17,Paso Yobai,1,Urbana,Oficial,,499,507
+2023,4,Guairá,17,Paso Yobai,2,Rural,Oficial,,2138,2084
+2023,4,Guairá,14,San Salvador,2,Rural,Oficial,,78,85
+2023,4,Guairá,14,San Salvador,1,Urbana,Privado,,6,40
+2023,4,Guairá,14,San Salvador,1,Urbana,Oficial,,103,102
+2023,4,Guairá,14,San Salvador,1,Urbana,Privado Subvencionado,,99,110
+2023,4,Guairá,18,Tebicuary,1,Urbana,Oficial,,208,248
+2023,4,Guairá,18,Tebicuary,2,Rural,Oficial,,70,101
+2023,4,Guairá,1,Villarrica,1,Urbana,Privado Subvencionado,,1921,2079
+2023,4,Guairá,1,Villarrica,1,Urbana,Oficial,,4594,4367
+2023,4,Guairá,1,Villarrica,1,Urbana,Privado,,181,211
+2023,4,Guairá,1,Villarrica,2,Rural,Oficial,,1340,1256
+2023,4,Guairá,15,Yataity,2,Rural,Oficial,,148,157
+2023,4,Guairá,15,Yataity,1,Urbana,Oficial,,253,260
+2023,7,Itapúa,25,Alto Verá,1,Urbana,Oficial,,144,119
+2023,7,Itapúa,25,Alto Verá,2,Rural,Oficial,,1474,1306
+2023,7,Itapúa,2,Bella Vista,2,Rural,Oficial,,398,344
+2023,7,Itapúa,2,Bella Vista,1,Urbana,Privado,,97,125
+2023,7,Itapúa,2,Bella Vista,1,Urbana,Oficial,,580,615
+2023,7,Itapúa,2,Bella Vista,2,Rural,Privado Subvencionado,,108,119
+2023,7,Itapúa,2,Bella Vista,2,Rural,Privado,,69,36
+2023,7,Itapúa,3,Cambyretá,1,Urbana,Oficial,,2098,2068
+2023,7,Itapúa,3,Cambyretá,2,Rural,Privado Subvencionado,,104,118
+2023,7,Itapúa,3,Cambyretá,2,Rural,Oficial,,2228,2162
+2023,7,Itapúa,4,Capitán Meza,2,Rural,Privado Subvencionado,,90,106
+2023,7,Itapúa,4,Capitán Meza,1,Urbana,Oficial,,243,263
+2023,7,Itapúa,4,Capitán Meza,2,Rural,Oficial,,729,656
+2023,7,Itapúa,5,Capitán Miranda,1,Urbana,Privado,,42,43
+2023,7,Itapúa,5,Capitán Miranda,2,Rural,Oficial,,523,469
+2023,7,Itapúa,5,Capitán Miranda,2,Rural,Privado,,0,12
+2023,7,Itapúa,5,Capitán Miranda,1,Urbana,Oficial,,656,630
+2023,7,Itapúa,9,Carlos Antonio López,2,Rural,Privado,,28,13
+2023,7,Itapúa,9,Carlos Antonio López,2,Rural,Oficial,,1265,1250
+2023,7,Itapúa,9,Carlos Antonio López,1,Urbana,Privado,,9,40
+2023,7,Itapúa,9,Carlos Antonio López,1,Urbana,Oficial,,369,367
+2023,7,Itapúa,9,Carlos Antonio López,2,Rural,Privado Subvencionado,,53,51
+2023,7,Itapúa,7,Carmen del Paraná,1,Urbana,Oficial,,433,444
+2023,7,Itapúa,7,Carmen del Paraná,1,Urbana,Privado Subvencionado,,164,158
+2023,7,Itapúa,7,Carmen del Paraná,2,Rural,Oficial,,143,163
+2023,7,Itapúa,8,Coronel Bogado,1,Urbana,Oficial,,1170,1102
+2023,7,Itapúa,8,Coronel Bogado,1,Urbana,Privado,,132,129
+2023,7,Itapúa,8,Coronel Bogado,1,Urbana,Privado Subvencionado,,307,350
+2023,7,Itapúa,8,Coronel Bogado,2,Rural,Oficial,,368,324
+2023,7,Itapúa,23,Edelira,1,Urbana,Privado,,64,110
+2023,7,Itapúa,23,Edelira,2,Rural,Privado Subvencionado,,47,40
+2023,7,Itapúa,23,Edelira,2,Rural,Oficial,,2096,2060
+2023,7,Itapúa,23,Edelira,1,Urbana,Privado Subvencionado,,208,176
+2023,7,Itapúa,23,Edelira,1,Urbana,Oficial,,48,51
+2023,7,Itapúa,1,Encarnación,1,Urbana,Oficial,,8744,8340
+2023,7,Itapúa,1,Encarnación,1,Urbana,Privado,,2658,3086
+2023,7,Itapúa,1,Encarnación,1,Urbana,Privado Subvencionado,,1655,1595
+2023,7,Itapúa,1,Encarnación,2,Rural,Oficial,,1597,1657
+2023,7,Itapúa,11,Fram,1,Urbana,Oficial,,527,462
+2023,7,Itapúa,11,Fram,2,Rural,Oficial,,128,114
+2023,7,Itapúa,11,Fram,1,Urbana,Privado Subvencionado,,270,309
+2023,7,Itapúa,11,Fram,1,Urbana,Privado,,62,67
+2023,7,Itapúa,12,General Artigas,1,Urbana,Oficial,,676,639
+2023,7,Itapúa,12,General Artigas,2,Rural,Oficial,,279,257
+2023,7,Itapúa,12,General Artigas,1,Urbana,Privado,,6,22
+2023,7,Itapúa,13,General Delgado,1,Urbana,Oficial,,145,115
+2023,7,Itapúa,13,General Delgado,2,Rural,Privado Subvencionado,,134,113
+2023,7,Itapúa,13,General Delgado,1,Urbana,Privado Subvencionado,,152,149
+2023,7,Itapúa,13,General Delgado,2,Rural,Oficial,,210,198
+2023,7,Itapúa,14,Hohenau,1,Urbana,Privado Subvencionado,,148,141
+2023,7,Itapúa,14,Hohenau,2,Rural,Oficial,,447,442
+2023,7,Itapúa,14,Hohenau,1,Urbana,Privado,,326,331
+2023,7,Itapúa,14,Hohenau,1,Urbana,Oficial,,594,575
+2023,7,Itapúa,30,Itapúa Poty,1,Urbana,Oficial,,244,296
+2023,7,Itapúa,30,Itapúa Poty,2,Rural,Oficial,,1037,1015
+2023,7,Itapúa,30,Itapúa Poty,1,Urbana,Privado,,26,61
+2023,7,Itapúa,15,Jesús,2,Rural,Oficial,,69,56
+2023,7,Itapúa,15,Jesús,1,Urbana,Oficial,,259,288
+2023,7,Itapúa,15,Jesús,1,Urbana,Privado Subvencionado,,182,198
+2023,7,Itapúa,16,José Leandro Oviedo,2,Rural,Oficial,,171,165
+2023,7,Itapúa,16,José Leandro Oviedo,1,Urbana,Oficial,,112,76
+2023,7,Itapúa,26,La Paz,1,Urbana,Oficial,,295,273
+2023,7,Itapúa,26,La Paz,2,Rural,Oficial,,57,53
+2023,7,Itapúa,18,Mayor Julio Dionisio Otaño,1,Urbana,Oficial,,677,742
+2023,7,Itapúa,18,Mayor Julio Dionisio Otaño,2,Rural,Oficial,,479,499
+2023,7,Itapúa,18,Mayor Julio Dionisio Otaño,1,Urbana,Privado Subvencionado,,152,164
+2023,7,Itapúa,18,Mayor Julio Dionisio Otaño,1,Urbana,Privado,,5,37
+2023,7,Itapúa,10,Natalio,1,Urbana,Privado,,0,31
+2023,7,Itapúa,10,Natalio,1,Urbana,Oficial,,659,689
+2023,7,Itapúa,10,Natalio,2,Rural,Privado,,6,48
+2023,7,Itapúa,10,Natalio,2,Rural,Oficial,,1218,1218
+2023,7,Itapúa,10,Natalio,1,Urbana,Privado Subvencionado,,52,45
+2023,7,Itapúa,6,Nueva Alborada,2,Rural,Oficial,,472,386
+2023,7,Itapúa,6,Nueva Alborada,1,Urbana,Oficial,,90,110
+2023,7,Itapúa,17,Obligado,1,Urbana,Privado,,259,196
+2023,7,Itapúa,17,Obligado,1,Urbana,Privado Subvencionado,,413,432
+2023,7,Itapúa,17,Obligado,2,Rural,Oficial,,375,379
+2023,7,Itapúa,17,Obligado,2,Rural,Privado,,5,8
+2023,7,Itapúa,17,Obligado,2,Rural,Privado Subvencionado,,49,26
+2023,7,Itapúa,17,Obligado,1,Urbana,Oficial,,595,536
+2023,7,Itapúa,29,Pirapó,2,Rural,Privado Subvencionado,,7,11
+2023,7,Itapúa,29,Pirapó,1,Urbana,Oficial,,305,305
+2023,7,Itapúa,29,Pirapó,1,Urbana,Privado,,11,26
+2023,7,Itapúa,29,Pirapó,1,Urbana,Privado Subvencionado,,112,126
+2023,7,Itapúa,29,Pirapó,2,Rural,Oficial,,214,216
+2023,7,Itapúa,19,San Cosme y Damián,1,Urbana,Oficial,,352,346
+2023,7,Itapúa,19,San Cosme y Damián,2,Rural,Oficial,,562,483
+2023,7,Itapúa,28,San Juan del  Paraná,2,Rural,Oficial,,657,657
+2023,7,Itapúa,28,San Juan del  Paraná,1,Urbana,Oficial,,474,502
+2023,7,Itapúa,20,San Pedro del Paraná,2,Rural,Oficial,,1942,1822
+2023,7,Itapúa,20,San Pedro del Paraná,1,Urbana,Oficial,,610,498
+2023,7,Itapúa,20,San Pedro del Paraná,1,Urbana,Privado Subvencionado,,191,219
+2023,7,Itapúa,21,San Rafael del Paraná,1,Urbana,Privado,,0,12
+2023,7,Itapúa,21,San Rafael del Paraná,1,Urbana,Oficial,,114,142
+2023,7,Itapúa,21,San Rafael del Paraná,2,Rural,Privado,,41,41
+2023,7,Itapúa,21,San Rafael del Paraná,2,Rural,Oficial,,1616,1636
+2023,7,Itapúa,24,Tomás Romero Pereira,2,Rural,Oficial,,2049,1874
+2023,7,Itapúa,24,Tomás Romero Pereira,2,Rural,Privado,,14,13
+2023,7,Itapúa,24,Tomás Romero Pereira,1,Urbana,Privado Subvencionado,,526,546
+2023,7,Itapúa,24,Tomás Romero Pereira,1,Urbana,Privado,,57,83
+2023,7,Itapúa,24,Tomás Romero Pereira,1,Urbana,Oficial,,886,919
+2023,7,Itapúa,22,Trinidad,2,Rural,Privado Subvencionado,,16,10
+2023,7,Itapúa,22,Trinidad,1,Urbana,Oficial,,392,400
+2023,7,Itapúa,22,Trinidad,2,Rural,Oficial,,519,504
+2023,7,Itapúa,27,Yatytay,2,Rural,Oficial,,453,404
+2023,7,Itapúa,27,Yatytay,1,Urbana,Privado,,0,14
+2023,7,Itapúa,27,Yatytay,1,Urbana,Oficial,,609,597
+2023,8,Misiones,2,Ayolas,1,Urbana,Privado,,103,198
+2023,8,Misiones,2,Ayolas,1,Urbana,Privado Subvencionado,,48,50
+2023,8,Misiones,2,Ayolas,2,Rural,Oficial,,365,336
+2023,8,Misiones,2,Ayolas,1,Urbana,Oficial,,1754,1865
+2023,8,Misiones,3,San Ignacio,2,Rural,Privado Subvencionado,,55,27
+2023,8,Misiones,3,San Ignacio,1,Urbana,Oficial,,2352,2484
+2023,8,Misiones,3,San Ignacio,1,Urbana,Privado,,107,138
+2023,8,Misiones,3,San Ignacio,1,Urbana,Privado Subvencionado,,353,370
+2023,8,Misiones,3,San Ignacio,2,Rural,Oficial,,1011,1033
+2023,8,Misiones,1,San Juan Bautista,2,Rural,Oficial,,627,527
+2023,8,Misiones,1,San Juan Bautista,1,Urbana,Privado,,140,191
+2023,8,Misiones,1,San Juan Bautista,1,Urbana,Privado Subvencionado,,412,427
+2023,8,Misiones,1,San Juan Bautista,1,Urbana,Oficial,,1529,1303
+2023,8,Misiones,4,San Miguel,2,Rural,Oficial,,424,380
+2023,8,Misiones,4,San Miguel,1,Urbana,Oficial,,186,199
+2023,8,Misiones,5,San Patricio,2,Rural,Oficial,,134,115
+2023,8,Misiones,5,San Patricio,1,Urbana,Oficial,,269,262
+2023,8,Misiones,6,Santa María,1,Urbana,Privado Subvencionado,,30,32
+2023,8,Misiones,6,Santa María,2,Rural,Oficial,,462,424
+2023,8,Misiones,6,Santa María,1,Urbana,Oficial,,486,514
+2023,8,Misiones,7,Santa Rosa,1,Urbana,Privado,,14,44
+2023,8,Misiones,7,Santa Rosa,2,Rural,Oficial,,805,780
+2023,8,Misiones,7,Santa Rosa,1,Urbana,Privado Subvencionado,,232,297
+2023,8,Misiones,7,Santa Rosa,1,Urbana,Oficial,,881,861
+2023,8,Misiones,8,Santiago,1,Urbana,Privado Subvencionado,,25,20
+2023,8,Misiones,8,Santiago,1,Urbana,Oficial,,327,319
+2023,8,Misiones,8,Santiago,2,Rural,Oficial,,308,310
+2023,8,Misiones,9,Villa Florida,1,Urbana,Oficial,,407,379
+2023,8,Misiones,10,Yabebyry,2,Rural,Oficial,,80,113
+2023,8,Misiones,10,Yabebyry,1,Urbana,Oficial,,207,169
+2023,12,Ñeembucú,2,Alberdi,2,Rural,Oficial,,62,65
+2023,12,Ñeembucú,2,Alberdi,1,Urbana,Oficial,,767,816
+2023,12,Ñeembucú,2,Alberdi,1,Urbana,Privado Subvencionado,,109,116
+2023,12,Ñeembucú,3,Cerrito,1,Urbana,Oficial,,306,295
+2023,12,Ñeembucú,3,Cerrito,2,Rural,Oficial,,134,110
+2023,12,Ñeembucú,4,Desmochados,2,Rural,Oficial,,14,20
+2023,12,Ñeembucú,4,Desmochados,1,Urbana,Oficial,,56,54
+2023,12,Ñeembucú,5,General José Eduvigis Díaz,2,Rural,Oficial,,103,99
+2023,12,Ñeembucú,5,General José Eduvigis Díaz,1,Urbana,Oficial,,183,186
+2023,12,Ñeembucú,6,Guazú Cuá,1,Urbana,Oficial,,68,54
+2023,12,Ñeembucú,6,Guazú Cuá,2,Rural,Oficial,,27,26
+2023,12,Ñeembucú,7,Humaitá,1,Urbana,Oficial,,192,183
+2023,12,Ñeembucú,7,Humaitá,2,Rural,Oficial,,35,33
+2023,12,Ñeembucú,8,Isla Umbú,2,Rural,Oficial,,35,36
+2023,12,Ñeembucú,8,Isla Umbú,1,Urbana,Oficial,,137,124
+2023,12,Ñeembucú,9,Laureles,2,Rural,Oficial,,62,59
+2023,12,Ñeembucú,9,Laureles,1,Urbana,Oficial,,130,131
+2023,12,Ñeembucú,10,Mayor Martínez,2,Rural,Oficial,,138,131
+2023,12,Ñeembucú,10,Mayor Martínez,1,Urbana,Oficial,,131,148
+2023,12,Ñeembucú,11,Paso de Patria,1,Urbana,Oficial,,143,157
+2023,12,Ñeembucú,11,Paso de Patria,2,Rural,Oficial,,8,3
+2023,12,Ñeembucú,1,Pilar,2,Rural,Oficial,,109,120
+2023,12,Ñeembucú,1,Pilar,1,Urbana,Oficial,,1943,2024
+2023,12,Ñeembucú,1,Pilar,1,Urbana,Privado,,42,88
+2023,12,Ñeembucú,1,Pilar,1,Urbana,Privado Subvencionado,,1771,1972
+2023,12,Ñeembucú,12,San Juan Bautista,1,Urbana,Oficial,,190,213
+2023,12,Ñeembucú,12,San Juan Bautista,2,Rural,Oficial,,193,227
+2023,12,Ñeembucú,13,Tacuaras,2,Rural,Oficial,,204,206
+2023,12,Ñeembucú,13,Tacuaras,1,Urbana,Oficial,,117,99
+2023,12,Ñeembucú,14,Villa Franca,2,Rural,Oficial,,6,7
+2023,12,Ñeembucú,14,Villa Franca,1,Urbana,Oficial,,86,87
+2023,12,Ñeembucú,16,Villalbín,2,Rural,Oficial,,115,116
+2023,12,Ñeembucú,16,Villalbín,1,Urbana,Oficial,,55,73
+2023,12,Ñeembucú,15,Villa Oliva,1,Urbana,Oficial,,167,169
+2023,12,Ñeembucú,15,Villa Oliva,2,Rural,Oficial,,220,211
+2023,9,Paraguarí,2,Acahay,1,Urbana,Oficial,,627,618
+2023,9,Paraguarí,2,Acahay,2,Rural,Oficial,,976,892
+2023,9,Paraguarí,2,Acahay,1,Urbana,Privado Subvencionado,,9,52
+2023,9,Paraguarí,3,Caapucú,1,Urbana,Oficial,,267,230
+2023,9,Paraguarí,3,Caapucú,2,Rural,Oficial,,368,273
+2023,9,Paraguarí,3,Caapucú,1,Urbana,Privado Subvencionado,,53,53
+2023,9,Paraguarí,3,Caapucú,1,Urbana,Privado,,12,20
+2023,9,Paraguarí,5,Carapeguá,1,Urbana,Privado Subvencionado,,564,601
+2023,9,Paraguarí,5,Carapeguá,1,Urbana,Privado,,21,73
+2023,9,Paraguarí,5,Carapeguá,1,Urbana,Oficial,,1014,1121
+2023,9,Paraguarí,5,Carapeguá,2,Rural,Oficial,,1881,1733
+2023,9,Paraguarí,6,Escobar,2,Rural,Oficial,,400,383
+2023,9,Paraguarí,6,Escobar,1,Urbana,Oficial,,200,179
+2023,9,Paraguarí,4,General Bernardino Caballero,2,Rural,Oficial,,380,344
+2023,9,Paraguarí,4,General Bernardino Caballero,1,Urbana,Oficial,,197,189
+2023,9,Paraguarí,7,La Colmena,2,Rural,Oficial,,155,146
+2023,9,Paraguarí,7,La Colmena,1,Urbana,Privado Subvencionado,,180,134
+2023,9,Paraguarí,7,La Colmena,1,Urbana,Oficial,,391,387
+2023,9,Paraguarí,18,Maria Antonia,2,Rural,Oficial,,405,406
+2023,9,Paraguarí,8,Mbuyapey,2,Rural,Oficial,,447,401
+2023,9,Paraguarí,8,Mbuyapey,1,Urbana,Oficial,,424,470
+2023,9,Paraguarí,8,Mbuyapey,1,Urbana,Privado,,39,53
+2023,9,Paraguarí,8,Mbuyapey,1,Urbana,Privado Subvencionado,,60,65
+2023,9,Paraguarí,1,Paraguarí,1,Urbana,Oficial,,1331,1163
+2023,9,Paraguarí,1,Paraguarí,1,Urbana,Privado,,100,101
+2023,9,Paraguarí,1,Paraguarí,1,Urbana,Privado Subvencionado,,793,876
+2023,9,Paraguarí,1,Paraguarí,2,Rural,Oficial,,756,692
+2023,9,Paraguarí,1,Paraguarí,2,Rural,Privado Subvencionado,,42,148
+2023,9,Paraguarí,9,Pirayú,1,Urbana,Privado Subvencionado,,307,336
+2023,9,Paraguarí,9,Pirayú,2,Rural,Oficial,,1322,1184
+2023,9,Paraguarí,9,Pirayú,1,Urbana,Oficial,,606,606
+2023,9,Paraguarí,10,Quiindy,2,Rural,Oficial,,785,730
+2023,9,Paraguarí,10,Quiindy,1,Urbana,Oficial,,915,918
+2023,9,Paraguarí,11,Quyquyhó,1,Urbana,Privado,,1,49
+2023,9,Paraguarí,11,Quyquyhó,2,Rural,Oficial,,266,273
+2023,9,Paraguarí,11,Quyquyhó,1,Urbana,Oficial,,242,229
+2023,9,Paraguarí,12,San Roque González de Santacruz,1,Urbana,Privado,,7,13
+2023,9,Paraguarí,12,San Roque González de Santacruz,1,Urbana,Oficial,,453,428
+2023,9,Paraguarí,12,San Roque González de Santacruz,2,Rural,Oficial,,614,529
+2023,9,Paraguarí,13,Sapucai,2,Rural,Oficial,,358,302
+2023,9,Paraguarí,13,Sapucai,1,Urbana,Oficial,,287,294
+2023,9,Paraguarí,14,Tebicuary-mí,2,Rural,Oficial,,308,297
+2023,9,Paraguarí,14,Tebicuary-mí,1,Urbana,Oficial,,91,67
+2023,9,Paraguarí,15,Yaguarón,1,Urbana,Oficial,,1771,1721
+2023,9,Paraguarí,15,Yaguarón,1,Urbana,Privado Subvencionado,,173,209
+2023,9,Paraguarí,15,Yaguarón,2,Rural,Oficial,,1845,1679
+2023,9,Paraguarí,15,Yaguarón,1,Urbana,Privado,,22,37
+2023,9,Paraguarí,16,Ybycuí,1,Urbana,Privado Subvencionado,,373,416
+2023,9,Paraguarí,16,Ybycuí,1,Urbana,Oficial,,651,671
+2023,9,Paraguarí,16,Ybycuí,2,Rural,Oficial,,1385,1250
+2023,9,Paraguarí,16,Ybycuí,1,Urbana,Privado,,27,75
+2023,9,Paraguarí,16,Ybycuí,2,Rural,Privado,,53,49
+2023,9,Paraguarí,17,Ybytymí,1,Urbana,Oficial,,188,150
+2023,9,Paraguarí,17,Ybytymí,2,Rural,Oficial,,406,370
+2023,15,Presidente Hayes,2,Benjamín Aceval,2,Rural,Oficial,,1486,1458
+2023,15,Presidente Hayes,2,Benjamín Aceval,2,Rural,Privado Subvencionado,,496,470
+2023,15,Presidente Hayes,2,Benjamín Aceval,1,Urbana,Oficial,,646,633
+2023,15,Presidente Hayes,2,Benjamín Aceval,1,Urbana,Privado,,123,111
+2023,15,Presidente Hayes,2,Benjamín Aceval,1,Urbana,Privado Subvencionado,,515,512
+2023,15,Presidente Hayes,2,Benjamín Aceval,2,Rural,Privado,,199,135
+2023,15,Presidente Hayes,10,Campo Aceval,2,Rural,Privado,,230,244
+2023,15,Presidente Hayes,10,Campo Aceval,2,Rural,Privado Subvencionado,,6,14
+2023,15,Presidente Hayes,10,Campo Aceval,2,Rural,Oficial,,378,358
+2023,15,Presidente Hayes,9,General Bruguez,1,Urbana,Oficial,,80,86
+2023,15,Presidente Hayes,9,General Bruguez,2,Rural,Oficial,,98,83
+2023,15,Presidente Hayes,6,José Falcón,1,Urbana,Oficial,,141,131
+2023,15,Presidente Hayes,6,José Falcón,2,Rural,Oficial,,323,327
+2023,15,Presidente Hayes,5,Nanawa,1,Urbana,Privado Subvencionado,,194,217
+2023,15,Presidente Hayes,5,Nanawa,1,Urbana,Oficial,,293,277
+2023,15,Presidente Hayes,11,Nueva Asunción,2,Rural,Oficial,,278,258
+2023,15,Presidente Hayes,3,Puerto Pinasco,2,Rural,Oficial,,560,483
+2023,15,Presidente Hayes,3,Puerto Pinasco,2,Rural,Privado,,69,76
+2023,15,Presidente Hayes,3,Puerto Pinasco,2,Rural,Privado Subvencionado,,12,5
+2023,15,Presidente Hayes,3,Puerto Pinasco,1,Urbana,Oficial,,289,264
+2023,15,Presidente Hayes,7,Teniente Irala Fernández,1,Urbana,Privado,,40,18
+2023,15,Presidente Hayes,7,Teniente Irala Fernández,1,Urbana,Privado Subvencionado,,101,101
+2023,15,Presidente Hayes,7,Teniente Irala Fernández,2,Rural,Oficial,,1340,1219
+2023,15,Presidente Hayes,7,Teniente Irala Fernández,2,Rural,Privado,,162,180
+2023,15,Presidente Hayes,7,Teniente Irala Fernández,2,Rural,Privado Subvencionado,,70,60
+2023,15,Presidente Hayes,7,Teniente Irala Fernández,1,Urbana,Oficial,,41,59
+2023,15,Presidente Hayes,8,Tte. Esteban Martínez,2,Rural,Oficial,,66,82
+2023,15,Presidente Hayes,8,Tte. Esteban Martínez,1,Urbana,Oficial,,61,51
+2023,15,Presidente Hayes,8,Tte. Esteban Martínez,2,Rural,Privado Subvencionado,,28,27
+2023,15,Presidente Hayes,4,Villa Hayes,1,Urbana,Privado,,180,204
+2023,15,Presidente Hayes,4,Villa Hayes,1,Urbana,Oficial,,1943,2086
+2023,15,Presidente Hayes,4,Villa Hayes,2,Rural,Privado Subvencionado,,539,563
+2023,15,Presidente Hayes,4,Villa Hayes,2,Rural,Privado,,40,46
+2023,15,Presidente Hayes,4,Villa Hayes,2,Rural,Oficial,,3028,3002
+2023,15,Presidente Hayes,4,Villa Hayes,1,Urbana,Privado Subvencionado,,778,811
+2023,2,San Pedro,12,25 de Diciembre,1,Urbana,Oficial,,227,195
+2023,2,San Pedro,12,25 de Diciembre,2,Rural,Oficial,,957,938
+2023,2,San Pedro,2,Antequera,2,Rural,Oficial,,71,43
+2023,2,San Pedro,2,Antequera,1,Urbana,Oficial,,634,629
+2023,2,San Pedro,17,Capiibary,1,Urbana,Privado,,31,55
+2023,2,San Pedro,17,Capiibary,1,Urbana,Oficial,,1260,1268
+2023,2,San Pedro,17,Capiibary,1,Urbana,Privado Subvencionado,,127,121
+2023,2,San Pedro,17,Capiibary,2,Rural,Oficial,,3637,3507
+2023,2,San Pedro,3,Choré,1,Urbana,Privado Subvencionado,,219,240
+2023,2,San Pedro,3,Choré,1,Urbana,Oficial,,523,542
+2023,2,San Pedro,3,Choré,1,Urbana,Privado,,89,86
+2023,2,San Pedro,3,Choré,2,Rural,Oficial,,2708,2478
+2023,2,San Pedro,4,General Elizardo Aquino,1,Urbana,Oficial,,482,485
+2023,2,San Pedro,4,General Elizardo Aquino,1,Urbana,Privado,,10,29
+2023,2,San Pedro,4,General Elizardo Aquino,1,Urbana,Privado Subvencionado,,144,150
+2023,2,San Pedro,4,General Elizardo Aquino,2,Rural,Oficial,,2021,1877
+2023,2,San Pedro,14,General Isidoro Resquín,2,Rural,Oficial,,1101,1033
+2023,2,San Pedro,14,General Isidoro Resquín,1,Urbana,Oficial,,487,425
+2023,2,San Pedro,14,General Isidoro Resquín,2,Rural,Privado Subvencionado,,33,22
+2023,2,San Pedro,16,Guayaibi,2,Rural,Oficial,,3314,3139
+2023,2,San Pedro,16,Guayaibi,2,Rural,Privado Subvencionado,,35,23
+2023,2,San Pedro,16,Guayaibi,1,Urbana,Oficial,,432,485
+2023,2,San Pedro,5,Itacurubí del Rosario,2,Rural,Oficial,,554,491
+2023,2,San Pedro,5,Itacurubí del Rosario,2,Rural,Privado,,70,72
+2023,2,San Pedro,5,Itacurubí del Rosario,1,Urbana,Oficial,,677,569
+2023,2,San Pedro,5,Itacurubí del Rosario,1,Urbana,Privado Subvencionado,,90,108
+2023,2,San Pedro,20,Liberación,1,Urbana,Privado,,47,52
+2023,2,San Pedro,20,Liberación,1,Urbana,Oficial,,538,572
+2023,2,San Pedro,20,Liberación,2,Rural,Oficial,,2265,2202
+2023,2,San Pedro,6,Lima,1,Urbana,Privado Subvencionado,,41,41
+2023,2,San Pedro,6,Lima,2,Rural,Oficial,,1146,1099
+2023,2,San Pedro,6,Lima,1,Urbana,Oficial,,307,275
+2023,2,San Pedro,7,Nueva Germania,1,Urbana,Oficial,,302,310
+2023,2,San Pedro,7,Nueva Germania,2,Rural,Privado,,46,49
+2023,2,San Pedro,7,Nueva Germania,2,Rural,Oficial,,452,378
+2023,2,San Pedro,8,San Estanislao,1,Urbana,Privado Subvencionado,,1252,1412
+2023,2,San Pedro,8,San Estanislao,2,Rural,Oficial,,3095,3288
+2023,2,San Pedro,8,San Estanislao,1,Urbana,Oficial,,1658,1546
+2023,2,San Pedro,8,San Estanislao,1,Urbana,Privado,,453,567
+2023,2,San Pedro,22,San José del Rosario,2,Rural,Oficial,,386,379
+2023,2,San Pedro,22,San José del Rosario,2,Rural,Privado,,55,42
+2023,2,San Pedro,9,San Pablo,2,Rural,Oficial,,208,167
+2023,2,San Pedro,9,San Pablo,1,Urbana,Oficial,,251,242
+2023,2,San Pedro,9,San Pablo,2,Rural,Privado Subvencionado,,50,55
+2023,2,San Pedro,1,San Pedro del Ycuamandyjú,1,Urbana,Privado Subvencionado,,274,395
+2023,2,San Pedro,1,San Pedro del Ycuamandyjú,2,Rural,Oficial,,2357,2239
+2023,2,San Pedro,1,San Pedro del Ycuamandyjú,1,Urbana,Oficial,,1849,1686
+2023,2,San Pedro,1,San Pedro del Ycuamandyjú,1,Urbana,Privado,,86,155
+2023,2,San Pedro,18,Santa Rosa del Aguaray,2,Rural,Oficial,,3949,3750
+2023,2,San Pedro,18,Santa Rosa del Aguaray,2,Rural,Privado,,29,36
+2023,2,San Pedro,18,Santa Rosa del Aguaray,1,Urbana,Oficial,,1383,1434
+2023,2,San Pedro,18,Santa Rosa del Aguaray,1,Urbana,Privado,,128,144
+2023,2,San Pedro,21,San Vicente Pancholo,2,Rural,Privado Subvencionado,,279,255
+2023,2,San Pedro,21,San Vicente Pancholo,1,Urbana,Oficial,,47,54
+2023,2,San Pedro,21,San Vicente Pancholo,2,Rural,Oficial,,1476,1343
+2023,2,San Pedro,10,Tacuati,2,Rural,Privado Subvencionado,,41,37
+2023,2,San Pedro,10,Tacuati,1,Urbana,Oficial,,356,356
+2023,2,San Pedro,10,Tacuati,2,Rural,Oficial,,1592,1571
+2023,2,San Pedro,10,Tacuati,2,Rural,Privado,,2,2
+2023,2,San Pedro,11,Unión,2,Rural,Oficial,,342,295
+2023,2,San Pedro,11,Unión,1,Urbana,Oficial,,383,338
+2023,2,San Pedro,13,Villa del Rosario,2,Rural,Oficial,,337,311
+2023,2,San Pedro,13,Villa del Rosario,1,Urbana,Privado,,25,34
+2023,2,San Pedro,13,Villa del Rosario,1,Urbana,Oficial,,968,1017
+2023,2,San Pedro,15,Yataity del Norte,1,Urbana,Oficial,,422,377
+2023,2,San Pedro,15,Yataity del Norte,2,Rural,Oficial,,1006,900
+2023,2,San Pedro,19,Yrybucuá,2,Rural,Oficial,,1454,1402
+2023,2,San Pedro,19,Yrybucuá,1,Urbana,Oficial,,260,292
+2023,2,San Pedro,19,Yrybucuá,2,Rural,Privado Subvencionado,,60,45
+2023,2,San Pedro,19,Yrybucuá,1,Urbana,Privado,,66,58
